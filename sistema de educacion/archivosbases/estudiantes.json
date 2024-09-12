@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "julio",
+        "apellido": "jimenez",
+        "dni": "0302464599",
+        "fecha_nacimiento": "2000-12-01",
+        "telefono": "0997328741",
+        "email": "julio@gmail.com",
+        "direccion": "milagro",
+        "estado": "activo",
+        "asignaturas": [
+            "Base de Datos"
+        ]
+    }
+]

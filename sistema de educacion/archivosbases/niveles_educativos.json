@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "descripcion": "Primer",
+        "estado": "activo"
+    },
+    {
+        "id": 2,
+        "descripcion": "bachillerato",
+        "estado": "activo"
+    }
+]

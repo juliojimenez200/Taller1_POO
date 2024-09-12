@@ -1,0 +1,1 @@
+[{"id": 1, "nombre": "Daniel", "apellido": "Vera", "dni": "0123456789", "fecha_nacimiento": "1980-12-05", "telefono": "9876543210", "email": "daniel@gmail.com", "direccion": "guayaquil ", "asignaturas": [{"id": 1, "Asignatura": "Base de Datos"}], "estado": "activo"}]
